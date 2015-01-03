@@ -11,7 +11,7 @@
 								<key>kind</key>
 								<string>software-package</string>
 								<key>url</key>
-								<string>http://www.bithealth.net/apps/bithealth/bithealth_v0.9.1.ipa</string>
+								<string>http://withyu.duapp.com/apps/bithealth/Bithealth_v0.9.1.ipa</string>
 							</dict>
 						</array>
 						<key>metadata</key>
